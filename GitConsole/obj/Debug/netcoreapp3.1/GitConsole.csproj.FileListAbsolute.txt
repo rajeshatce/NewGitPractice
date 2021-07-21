@@ -24,3 +24,16 @@ D:\ILS Demo\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.csproj.
 D:\ILS Demo\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.dll
 D:\ILS Demo\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.pdb
 D:\ILS Demo\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.genruntimeconfig.cache
+C:\A AnushaDrive\GITLearnings\gitlearnConsole\NewGitPractice\GitConsole\bin\Debug\netcoreapp3.1\GitConsole.exe
+C:\A AnushaDrive\GITLearnings\gitlearnConsole\NewGitPractice\GitConsole\bin\Debug\netcoreapp3.1\GitConsole.deps.json
+C:\A AnushaDrive\GITLearnings\gitlearnConsole\NewGitPractice\GitConsole\bin\Debug\netcoreapp3.1\GitConsole.runtimeconfig.json
+C:\A AnushaDrive\GITLearnings\gitlearnConsole\NewGitPractice\GitConsole\bin\Debug\netcoreapp3.1\GitConsole.runtimeconfig.dev.json
+C:\A AnushaDrive\GITLearnings\gitlearnConsole\NewGitPractice\GitConsole\bin\Debug\netcoreapp3.1\GitConsole.dll
+C:\A AnushaDrive\GITLearnings\gitlearnConsole\NewGitPractice\GitConsole\bin\Debug\netcoreapp3.1\GitConsole.pdb
+C:\A AnushaDrive\GITLearnings\gitlearnConsole\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.csproj.AssemblyReference.cache
+C:\A AnushaDrive\GITLearnings\gitlearnConsole\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.AssemblyInfoInputs.cache
+C:\A AnushaDrive\GITLearnings\gitlearnConsole\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.AssemblyInfo.cs
+C:\A AnushaDrive\GITLearnings\gitlearnConsole\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.csproj.CoreCompileInputs.cache
+C:\A AnushaDrive\GITLearnings\gitlearnConsole\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.dll
+C:\A AnushaDrive\GITLearnings\gitlearnConsole\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.pdb
+C:\A AnushaDrive\GITLearnings\gitlearnConsole\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.genruntimeconfig.cache
