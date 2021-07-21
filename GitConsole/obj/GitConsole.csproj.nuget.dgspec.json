@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ILS Demo\\NewGitPractice\\GitConsole\\GitConsole.csproj": {}
+    "D:\\ILS Demo\\Illumina\\Login\\NewGitPractice\\GitConsole\\GitConsole.csproj": {}
   },
   "projects": {
-    "D:\\ILS Demo\\NewGitPractice\\GitConsole\\GitConsole.csproj": {
+    "D:\\ILS Demo\\Illumina\\Login\\NewGitPractice\\GitConsole\\GitConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ILS Demo\\NewGitPractice\\GitConsole\\GitConsole.csproj",
+        "projectUniqueName": "D:\\ILS Demo\\Illumina\\Login\\NewGitPractice\\GitConsole\\GitConsole.csproj",
         "projectName": "GitConsole",
-        "projectPath": "D:\\ILS Demo\\NewGitPractice\\GitConsole\\GitConsole.csproj",
+        "projectPath": "D:\\ILS Demo\\Illumina\\Login\\NewGitPractice\\GitConsole\\GitConsole.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\ILS Demo\\NewGitPractice\\GitConsole\\obj\\",
+        "outputPath": "D:\\ILS Demo\\Illumina\\Login\\NewGitPractice\\GitConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

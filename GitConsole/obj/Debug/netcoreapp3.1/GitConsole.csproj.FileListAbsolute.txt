@@ -24,3 +24,15 @@ D:\ILS Demo\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.csproj.
 D:\ILS Demo\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.dll
 D:\ILS Demo\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.pdb
 D:\ILS Demo\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.genruntimeconfig.cache
+D:\ILS Demo\Illumina\Login\NewGitPractice\GitConsole\bin\Debug\netcoreapp3.1\GitConsole.exe
+D:\ILS Demo\Illumina\Login\NewGitPractice\GitConsole\bin\Debug\netcoreapp3.1\GitConsole.deps.json
+D:\ILS Demo\Illumina\Login\NewGitPractice\GitConsole\bin\Debug\netcoreapp3.1\GitConsole.runtimeconfig.json
+D:\ILS Demo\Illumina\Login\NewGitPractice\GitConsole\bin\Debug\netcoreapp3.1\GitConsole.runtimeconfig.dev.json
+D:\ILS Demo\Illumina\Login\NewGitPractice\GitConsole\bin\Debug\netcoreapp3.1\GitConsole.dll
+D:\ILS Demo\Illumina\Login\NewGitPractice\GitConsole\bin\Debug\netcoreapp3.1\GitConsole.pdb
+D:\ILS Demo\Illumina\Login\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.AssemblyInfoInputs.cache
+D:\ILS Demo\Illumina\Login\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.AssemblyInfo.cs
+D:\ILS Demo\Illumina\Login\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.csproj.CoreCompileInputs.cache
+D:\ILS Demo\Illumina\Login\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.dll
+D:\ILS Demo\Illumina\Login\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.pdb
+D:\ILS Demo\Illumina\Login\NewGitPractice\GitConsole\obj\Debug\netcoreapp3.1\GitConsole.genruntimeconfig.cache
