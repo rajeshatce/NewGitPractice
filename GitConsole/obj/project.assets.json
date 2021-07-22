@@ -8,32 +8,35 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\pranu\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Owner\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\A AnushaDrive\\GITLearnings\\gitlearnConsole\\NewGitPractice\\GitConsole\\GitConsole.csproj",
+      "projectUniqueName": "D:\\D-DRIVE\\GitHub_Repository\\GitHub\\NewGitPractice\\Product\\GitConsole\\GitConsole.csproj",
       "projectName": "GitConsole",
-      "projectPath": "C:\\A AnushaDrive\\GITLearnings\\gitlearnConsole\\NewGitPractice\\GitConsole\\GitConsole.csproj",
-      "packagesPath": "C:\\Users\\pranu\\.nuget\\packages\\",
-      "outputPath": "C:\\A AnushaDrive\\GITLearnings\\gitlearnConsole\\NewGitPractice\\GitConsole\\obj\\",
+      "projectPath": "D:\\D-DRIVE\\GitHub_Repository\\GitHub\\NewGitPractice\\Product\\GitConsole\\GitConsole.csproj",
+      "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+      "outputPath": "D:\\D-DRIVE\\GitHub_Repository\\GitHub\\NewGitPractice\\Product\\GitConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\pranu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "netcoreapp3.1": {

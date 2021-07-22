@@ -6,9 +6,11 @@ namespace GitConsole
     {
         static void Main(string[] args)
         {
-            
+            Product obj = new Product();
+
             Console.WriteLine("Hello team welcome to GIT");
-            
+
+            obj.SayHello();
         }
     }
 }
